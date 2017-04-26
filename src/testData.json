@@ -1,0 +1,19 @@
+{
+    "contests": [
+        {
+            "id": 1,
+            "categoryName": "Business/Company",
+            "contestName": "Cofitive Building Bricks"
+        },
+        {
+            "id": 2,
+            "categoryName": "Business/Company2",
+            "contestName": "Cofitive Building Bricks2"
+        },
+        {
+            "id": 3,
+            "categoryName": "Business/Company3",
+            "contestName": "Cofitive Building Bricks3"
+        }
+    ]
+}
