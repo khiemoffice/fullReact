@@ -9,6 +9,7 @@ console.log(serverRender)
 import express from 'express'
 const server = express()
 
+
 server.use(sassMiddleware({
     src: path.join(__dirname, 'scss'),
     dest: path.join(__dirname, 'public')
